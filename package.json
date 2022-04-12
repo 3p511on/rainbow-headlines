@@ -1,0 +1,12 @@
+{
+  "name": "rainbow",
+  "version": "1.0.0",
+  "description": "Create headlines in color of rainbow",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve"
+  },
+  "devDependencies": {
+    "serve": "^11.2.0"
+  }
+}
